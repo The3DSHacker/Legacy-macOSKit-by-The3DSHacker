@@ -19,3 +19,5 @@ macOS Ventura
 macOS Sonoma
 macOS Sequoia (may have some bugs)
 macOS Tahoe (sometimes unusable)
+
+Originally made by The3DSHacker
