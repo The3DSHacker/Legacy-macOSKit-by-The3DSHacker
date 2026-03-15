@@ -10,14 +10,9 @@ How to use:
 5. Ready to use! Select an option and click Enter!
 
 Support:
-macOS High Sierra
-macOS Mojave
-macOS Catalina
-macOS Big Sur
-macOS Monterey
-macOS Ventura
-macOS Sonoma
-macOS Sequoia (may have some bugs)
-macOS Tahoe (sometimes unusable)
+macOS High Sierra to macOS Tahoe
 
-Originally made by The3DSHacker
+ Made by The3DSHacker
+
+ Some macOS versions have NOT been tested.
+
