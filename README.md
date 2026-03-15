@@ -19,3 +19,6 @@ macOS Ventura
 macOS Sonoma
 macOS Sequoia (may have some bugs)
 macOS Tahoe (sometimes unusable)
+
+What can you do with it?
+You can modify the code, and choose another name, but put me in the credits or else the thing will be taken down
